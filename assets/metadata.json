@@ -1,1 +1,12 @@
-
+{
+  "name": "Geveex Early Bird",
+  "symbol": "EARLY BIRD",
+  "description": "DEVNET ONLY – NO MAINNET VALUE. This NFT is for participation tracking and wallet verification only. Not a financial asset.",
+  "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/96811728c001200fd9c491e4da33f04cd50e00eb/assets/early-bird.png",
+  "attributes": [
+    { "trait_type": "Network", "value": "Devnet" },
+    { "trait_type": "Purpose", "value": "Participation Filter" },
+    { "trait_type": "Max Mint Per Wallet", "value": 1 },
+    { "trait_type": "Supply Target", "value": 200000 }
+  ]
+}

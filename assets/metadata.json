@@ -1,12 +1,113 @@
 {
-  "name": "Geveex Early Bird",
-  "symbol": "EARLY BIRD",
-  "description": "DEVNET ONLY – NO MAINNET VALUE. This NFT is for participation tracking and wallet verification only. Not a financial asset.",
-  "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/96811728c001200fd9c491e4da33f04cd50e00eb/assets/early-bird.png",
+  "name": "GeveexEcho Early Bird #{{EDITION}}",
+  "symbol": "GEEB",
+  "description": "GeveexEcho Early Bird is an ultra-exclusive genesis NFT drop marking the dawn of the GeveexEcho ecosystem on devnet. As one of only 10 Early Birds ever minted, holders gain pioneer status in the project — first access to testnet features, future airdrops, governance signals, community alpha, and special roles in upcoming mainnet launches. This Early Bird represents being ahead of the curve: waking up before the rest of the flock to catch the worm of innovation, opportunity, and community-driven value in Web3. The artwork captures the essence of early adoption — a vigilant, forward-looking bird silhouette against a rising sun gradient, symbolizing new beginnings, speed, exclusivity, and the reward of rising early in the blockchain world. Own a piece of GeveexEcho history with this limited 10-piece collection. Early Birds fly first — and highest.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/9834aeac3509432060b2ae3401b9128fb9a465ed/assets/early-bird.png",
+  "external_url": "https://github.com/GeveexEcho",
   "attributes": [
-    { "trait_type": "Network", "value": "Devnet" },
-    { "trait_type": "Purpose", "value": "Participation Filter" },
-    { "trait_type": "Max Mint Per Wallet", "value": 1 },
-    { "trait_type": "Supply Target", "value": 200000 }
-  ]
+    {
+      "trait_type": "Edition",
+      "value": "{{EDITION}}/10"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Genesis Early Bird"
+    },
+    {
+      "trait_type": "Collection Size",
+      "value": "10"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Ultra Limited"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Dawn Pioneer"
+    },
+    {
+      "trait_type": "Bird Type",
+      "value": "Early Bird"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Vigilant & Alert"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Sunrise"
+    },
+    {
+      "trait_type": "Background Style",
+      "value": "Gradient Horizon"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Warm Sunrise Tones"
+    },
+    {
+      "trait_type": "Sky Elements",
+      "value": "Rising Sun"
+    },
+    {
+      "trait_type": "Bird Pose",
+      "value": "Forward Gaze"
+    },
+    {
+      "trait_type": "Wing Position",
+      "value": "Ready to Fly"
+    },
+    {
+      "trait_type": "Exclusivity Level",
+      "value": "Top 0.1% Pioneer"
+    },
+    {
+      "trait_type": "Access Perk",
+      "value": "Devnet Alpha + Airdrop Priority"
+    },
+    {
+      "trait_type": "Community Role",
+      "value": "Founding Flock Member"
+    },
+    {
+      "trait_type": "Mint Phase",
+      "value": "Early Bird Pre-Launch"
+    },
+    {
+      "trait_type": "Blockchain Testnet",
+      "value": "Devnet"
+    },
+    {
+      "trait_type": "Project Type",
+      "value": "Ecosystem Genesis"
+    },
+    {
+      "trait_type": "Utility Category",
+      "value": "Early Access & Governance"
+    },
+    {
+      "trait_type": "Symbolism",
+      "value": "Rise Before The Rest"
+    },
+    {
+      "trait_type": "Motivation",
+      "value": "Catch The Worm First"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/9834aeac3509432060b2ae3401b9128fb9a465ed/assets/early-bird.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G",
+        "share": 100
+      }
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "GeveexEcho Early Bird #{{EDITION}}",
-  "symbol": "GEEB",
+  "symbol": "EarlyBird",
   "description": "GeveexEcho Early Bird is an ultra-exclusive genesis NFT drop marking the dawn of the GeveexEcho ecosystem on devnet. As one of only 10 Early Birds ever minted, holders gain pioneer status in the project — first access to testnet features, future airdrops, governance signals, community alpha, and special roles in upcoming mainnet launches. This Early Bird represents being ahead of the curve: waking up before the rest of the flock to catch the worm of innovation, opportunity, and community-driven value in Web3. The artwork captures the essence of early adoption — a vigilant, forward-looking bird silhouette against a rising sun gradient, symbolizing new beginnings, speed, exclusivity, and the reward of rising early in the blockchain world. Own a piece of GeveexEcho history with this limited 10-piece collection. Early Birds fly first — and highest.",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/9834aeac3509432060b2ae3401b9128fb9a465ed/assets/early-bird.png",

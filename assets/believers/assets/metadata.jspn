@@ -1,0 +1,19 @@
+{
+  "name": "Geveex Devnet Believers",
+  "symbol": "GEV-BELIEVE",
+  "description": "This NFT is issued strictly for Geveex devnet testing scenarios, including minting logic verification, metadata rendering, and protocol experimentation. It has no real-world utility, financial worth, or tradable value and exists purely for development and testing purposes.",
+  "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/7f6384f480faa2d413dffd2b36effd0a217c8260/assets/geveex-drvnet-believers.png",
+  "external_url": "https://x.com/Geveex_echo",
+  "seller_fee_basis_points": 700,
+  "creators": [
+    {
+      "address": "PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G",
+      "share": 100
+    }
+  ],
+  "attributes": [
+    { "trait_type": "Environment", "value": "Devnet" },
+    { "trait_type": "Purpose", "value": "Testing" },
+    { "trait_type": "Value", "value": "No Value" }
+  ]
+}

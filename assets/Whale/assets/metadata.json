@@ -1,0 +1,19 @@
+{
+  "name": "Geveex Devnet Whale",
+  "symbol": "GEV-WHALE",
+  "description": "This NFT is created exclusively for Geveex devnet testing and development purposes. It is intended solely for smart contract validation, metadata structure testing, and ecosystem experimentation. This asset holds no monetary, financial, or collectible value and must not be considered an investment.",
+  "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/7f6384f480faa2d413dffd2b36effd0a217c8260/assets/geveex-devnet-whale.png",
+  "external_url": "https://x.com/Geveex_echo",
+  "seller_fee_basis_points": 700,
+  "creators": [
+    {
+      "address": "PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G",
+      "share": 100
+    }
+  ],
+  "attributes": [
+    { "trait_type": "Environment", "value": "Devnet" },
+    { "trait_type": "Purpose", "value": "Testing" },
+    { "trait_type": "Value", "value": "No Value" }
+  ]
+}

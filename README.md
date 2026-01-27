@@ -20,7 +20,7 @@ The metadata restoration and account initialization are governed by the followin
 | INDEX | MINT ADDRESS (CLICK TO VIEW ON DEVNET) | STATUS |
 |---|---|---|
 | 0001 | [zDfmWsb6bzGGtEbQRS8kzXqDptnghNLRWYWmPuA1V8e](https://explorer.solana.com/address/zDfmWsb6bzGGtEbQRS8kzXqDptnghNLRWYWmPuA1V8e?cluster=devnet) | VERIFIED |
-| 0002 | [AK1FKg2LnqWFF0nkcgkWNEnG5CaaPCT7ULJpDwpwBdXB](https://explorer.solana.com/address/AK1FKg2LnqWFF0nkcgkWNEnG5CaaPCT7ULJpDwpwBdXB?cluster=devnet) | VERIFIED |
+| 0002 | [yqNeP88woeYFefPcuaULPEoyEN9Eg2MHsZKeQVm11kZ](https://explorer.solana.com/address/yqNeP88woeYFefPcuaULPEoyEN9Eg2MHsZKeQVm11kZ?cluster=devnet) | VERIFIED |
 | 0003 | [3Utr65mj057iJECVDR4UhHfHfm145BR1NFM8ce02163](https://explorer.solana.com/address/3Utr65mj057iJECVDR4UhHfHfm145BR1NFM8ce02163?cluster=devnet) | VERIFIED |
 | 0004 | [4Atdt1hpllxsQM5ev90ot82oEj1ABK32pdrBxBto6bLDd](https://explorer.solana.com/address/4Atdt1hpllxsQM5ev90ot82oEj1ABK32pdrBxBto6bLDd?cluster=devnet) | VERIFIED |
 | 0005 | [7AgZNBA16FLQTX59g4529eJCQJvh75vRiHNYLmvov98](https://explorer.solana.com/address/7AgZNBA16FLQTX59g4529eJCQJvh75vRiHNYLmvov98?cluster=devnet) | VERIFIED |

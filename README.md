@@ -22,8 +22,8 @@ The metadata restoration and account initialization are governed by the followin
 | 0001 | [zDfmWsb6bzGGtEbQRS8kzXqDptnghNLRWYWmPuA1V8e](https://explorer.solana.com/address/zDfmWsb6bzGGtEbQRS8kzXqDptnghNLRWYWmPuA1V8e?cluster=devnet) | VERIFIED |
 | 0002 | [yqNeP88woeYFefPcuaULPEoyEN9Eg2MHsZKeQVm11kZ](https://explorer.solana.com/address/yqNeP88woeYFefPcuaULPEoyEN9Eg2MHsZKeQVm11kZ?cluster=devnet) | VERIFIED |
 | 0003 | [yNB9vAp7aVxYnwAgN6f3suWKcREuA7q31nLCWJ1Q7Ce](https://explorer.solana.com/address/yNB9vAp7aVxYnwAgN6f3suWKcREuA7q31nLCWJ1Q7Ce?cluster=devnet) | VERIFIED |
-| 0004 | [4Atdt1hpllxsQM5ev90ot82oEj1ABK32pdrBxBto6bLDd](https://explorer.solana.com/address/4Atdt1hpllxsQM5ev90ot82oEj1ABK32pdrBxBto6bLDd?cluster=devnet) | VERIFIED |
-| 0005 | [7AgZNBA16FLQTX59g4529eJCQJvh75vRiHNYLmvov98](https://explorer.solana.com/address/7AgZNBA16FLQTX59g4529eJCQJvh75vRiHNYLmvov98?cluster=devnet) | VERIFIED |
+| 0004 | [xxEySPrzcUPSZi64YDVe73W8pJ9FSS7VKt2yKsc2urZ](https://explorer.solana.com/address/xxEySPrzcUPSZi64YDVe73W8pJ9FSS7VKt2yKsc2urZ?cluster=devnet) | VERIFIED |
+| 0005 | [x1V8uC4RKpSx4Le1p325BPJFQhv9FhfGUYftF2aNYFw](https://explorer.solana.com/address/x1V8uC4RKpSx4Le1p325BPJFQhv9FhfGUYftF2aNYFw?cluster=devnet) | VERIFIED |
 | 0006 | [3v7frP6orA3bXJ7zwRZNu1SpvLDxnB6t462nANHQCXQE](https://explorer.solana.com/address/3v7frP6orA3bXJ7zwRZNu1SpvLDxnB6t462nANHQCXQE?cluster=devnet) | VERIFIED |
 | 0007 | [H458RTNnD8coA4QYectoFhyfR9SAw3YFKNUzfwbbzYS](https://explorer.solana.com/address/H458RTNnD8coA4QYectoFhyfR9SAw3YFKNUzfwbbzYS?cluster=devnet) | VERIFIED |
 | 0008 | [FVHToHKzLQ4gPCkXzL6zV7VLzd6RtwQq4qHfocmFnZNN](https://explorer.solana.com/address/FVHToHKzLQ4gPCkXzL6zV7VLzd6RtwQq4qHfocmFnZNN?cluster=devnet) | VERIFIED |

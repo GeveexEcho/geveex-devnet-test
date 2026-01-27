@@ -1,196 +1,119 @@
-![Geveex](https://img.shields.io/badge/Geveex-ECHO-orange) ![Solana](https://img.shields.io/badge/Solana-Protocol-black?logo=solana&logoColor=white) ![Devnet](https://img.shields.io/badge/Network-Devnet-blueviolet) ![Progress](https://img.shields.io/badge/Progress-Restoring_6000_NFTs-brightgreen) ![Scarcity](https://img.shields.io/badge/Scarcity-High_6000_Fixed-red)
+![Geveex](https://img.shields.io/badge/Geveex-ECHO-orange) ![Solana](https://img.shields.io/badge/Solana-Protocol-black?logo=solana&logoColor=white) ![Devnet](https://img.shields.io/badge/Network-Devnet-blueviolet)
 
-# 🛠 GEVEEX ECHO: FULL INFRASTRUCTURE RESTORATION LEDGER (6,000 UNITS)
+# 🛠 GEVEEX ECHO: VERIFIED ASSET LEDGER
 
-## 📖 EXECUTIVE SUMMARY
-This repository serves as the definitive source of transparency for the Geveex Echo ecosystem. Following a metadata pointer failure in the initial deployment of our Solana Program (ID: 334XQpaLxYbB93VLLXYXkh58RUA4B8wpijPPQzZakTo3), our development team has initiated a massive on-chain restoration project. 
+This ledger contains verified mint addresses for the Geveex Echo project. Each address is linked to the Solana Explorer (Devnet cluster) for technical on-chain verification.
 
-Every unit listed below has had its Metadata PDA (Program Derived Address) manually initialized to ensure visual rendering across all SPL-compatible wallets.
-
----
-
-## 🏗 ON-CHAIN TRANSPARENCY & COSTS
-Restoring 6,000 units on Solana is a resource-intensive operation. Each metadata account requires a "Rent Exemption" deposit to be stored on the ledger.
-
-- **Project Program ID:** `334XQpaLxYbB93VLLXYXkh58RUA4B8wpijPPQzZakTo3`
-- **Operational Cost:** ~0.005 SOL per Account
-- **Total SOL Committed:** ~58.48 SOL
-- **Current Treasury Balance:** 11.52 SOL
+> [!IMPORTANT]
+> **DISCLAIMER:** All assets and tokens listed in this registry are for **Devnet testing purposes only**. They hold **no monetary value**, are not for sale, and exist solely to validate infrastructure restoration.
 
 ---
 
-## 📊 THE RESTORATION LOG (ENTRIES 1 - 6000)
-The following table documents the successful metadata injection for the specific mint addresses verified in our latest batch.
-
-| INDEX | VERIFIED MINT ADDRESS | STATUS | TIER |
-|---|---|---|---|
-| 0001 | 4Atdt1hpUxsQM5ev9DotB20Ej1ABK32pdrBxBtoobLDd | RESTORED | Whale |
-| 0002 | 7AgZNBA16eFLQTX59gA529eJCQJvh75vR1HWYLavav98 | RESTORED | Whale |
-| 0003 | 3v7frPGorA3bXJ7zwRZNu15pvLDxmG6t462mANhQCX | RESTORED | Believers |
-| 0004 | H458RTNmD8coA4QYectoFhyfR9SAW3YFKNUzfw | RESTORED | Believers |
-| 0005 | fwbbzYSa | RESTORED | Community |
-| 0006 | FVHT@HWZLQ4gPCkXzLGzV7VLzd6RtwQq4qHfoenFn | RESTORED | Community |
-| 0007 | FnZNN | RESTORED | Community |
-| 0008 | 1wfLT6GVZ3xbKCbRZ1dC1DcMVc1wdkrCAktvjGjNthe | RESTORED | Whale |
-| 0009 | fhd | RESTORED | Whale |
-| 0010 | J2250co5H47XiscVconBh@taozJA2Bp9PmUsbtxJtCs | RESTORED | Whale |
-| 0011 | CSS | RESTORED | Believers |
-| 0012 | FfJnaB2ucseXfScWfjDYjgQ14h1b2MHLjuArTznCeq | RESTORED | Believers |
-| 0013 | qJw | RESTORED | Believers |
-| 0014 | F2JgXUK5HrJHf226kQTQXKTxbU6mZ6fEridrx7LuvJMV | RESTORED | Community |
-| 0015 | 63qw6xya9vzsH7Tmg45mZ4N9qgFbJH1PLQvzrKYh7685 | RESTORED | Community |
-| 0016 | 9Rh5MRZB5anHVPbfZqQA@VncKQ75HbwXm5kJjBPUgkty | RESTORED | Whale |
-| 0017 | 5A2RU1pofBhsrBa2WhzqDxE4TXY8AsAhtendhBRt56db | RESTORED | Whale |
-| 0018 | FeSuLBCE | RESTORED | Whale |
-| 0019 | SVMPION | RESTORED | Believers |
-| 0020 | ONbCZvn8FnXsnxJ1FYAw3zmws3 | RESTORED | Believers |
-| 0021 | KUN | RESTORED | Believers |
-| 0022 | eymCk97Uc67K72xj | RESTORED | Community |
-| 0023 | 72xjo552nRt81aDUocAeM773gCKoFY | RESTORED | Community |
-| 0024 | 7djP4EJAWxQjzgM | RESTORED | Community |
-| 0025 | zgM2fEkmjsU3ekZkPRmJZeP3cgón76JH | RESTORED | Whale |
-| 0026 | GfaKEcvJ5Yaf6VTol | RESTORED | Whale |
-| 0027 | ToRKGUZ2Rgs47M4TzCbK1W2BqRJNa | RESTORED | Whale |
-| 0028 | EsqywEovJbe7aGdZHI | RESTORED | Believers |
-| 0029 | ZHNT531e7Yxa6TkB0BPdNBdvAG | RESTORED | Believers |
-| 0030 | JNBdVAG1BJ | RESTORED | Believers |
-| 0031 | 5oHv7mQRn70x346tC2 | RESTORED | Community |
-| 0032 | otC2któNf4Qcy1AKLzW6Zcf5Xvn | RESTORED | Community |
-| 0033 | vnsim | RESTORED | Community |
-| 0034 | 8jmBwJZCyBx8e3A2 | RESTORED | Whale |
-| 0035 | SA2Y9fsE5epF1EJbivmM9DY216XVyr | RESTORED | Whale |
-| 0036 | Vynp | RESTORED | Whale |
-| 0037 | Gim777UHEQtAYby | RESTORED | Believers |
-| 0038 | y3uzCU1r2B8HBe8cuofsgEec3aL6 | RESTORED | Believers |
-| 0039 | aLG7y | RESTORED | Believers |
-| 0040 | Du7o0f9BKUPcwsnx | RESTORED | Community |
-| 0041 | XpB15FBr7oUrEeCrgn2gFuX7orFE | RESTORED | Community |
-| 0042 | FEZ | RESTORED | Community |
-| 0043 | AcyA5zXE4twVCG | RESTORED | Whale |
-| 0044 | VCG12qvcgBE+W52N2zDcBtBzuRBSHjB | RESTORED | Whale |
-| 0045 | E3DHovtBWZUpu | RESTORED | Whale |
-| 0046 | puyDELW2XdUXx4r7fwgWckvQm9S9CZxY3 | RESTORED | Believers |
-| 0047 | 5T890jVSeuy583z8 | RESTORED | Believers |
-| 0048 | 88swpQYQnhSWMPRPNW32LQMAp50v1 | RESTORED | Believers |
-| 0049 | 2Pj5Jkr84nBgTxXz | RESTORED | Community |
-| 0050 | xXznyBGGs38cxdMUAJ80qr4vSkQ5Yne | RESTORED | Community |
-| 0051 | CK1jt4a0E7nEZmUF | RESTORED | Community |
-| 0052 | UFETsh9eYZzug4msAEdVU4ZKWTC5W8 | RESTORED | Whale |
-| 0053 | 2KFQxfocohc360movr | RESTORED | Whale |
-| 0054 | ovrNUC4EJPoZfd9RTDYUjngare92 | RESTORED | Whale |
-| 0055 | 4cq7BhREMJTJLXUgCo | RESTORED | Believers |
-| 0056 | gCoRbqYyRBTanHUhywkd37mYmKGQU | RESTORED | Believers |
-| 0057 | 7PMr5b3YG6c8UTLjor | RESTORED | Believers |
-| 0058 | JorkByTz4sk20J3GF1LDasTqe887v | RESTORED | Community |
-| 0059 | DSTHUSUskGQFtu2ebf | RESTORED | Community |
-| 0060 | ebRyYiYK8SS9yMF8HqJ5rgVR4FAEG | RESTORED | Community |
-| 0061 | 34my8Qnj8wXcmmwT | RESTORED | Whale |
-| 0062 | T8Mj9u88Tvt79KwMbsgd8yzgFDuho | RESTORED | Whale |
-| 0063 | 8x9ygbyjK71PWUHg | RESTORED | Whale |
-| 0064 | JHgEnkt5Rqg6LFgjtuCNSyoNqATNGBY | RESTORED | Believers |
-| 0065 | 3jkQB5u8yuvh90L5 | RESTORED | Believers |
-| 0066 | L5XYYr3pybjqnmDwMxPUQFS6sDD2Jd | RESTORED | Believers |
-| 0067 | ACCRTVGZmNW2jRq8 | RESTORED | Community |
-| 0068 | Rq88pjCBhN7YLDUd99vntba4LeccDós | RESTORED | Community |
-| 0069 | 475Ud5PhcvfncoWRY | RESTORED | Community |
-| 0070 | RYh1NFxFFh3ESxCow93jn3onDAHDZ | RESTORED | Whale |
-| 0071 | 8VbWEt368PKXY1uLpF | RESTORED | Whale |
-| 0072 | LpRNQE15T3SfuuTWimkjAsBCePN1 | RESTORED | Whale |
-| 0073 | 5tknUWJPJ5V5RUmoHv | RESTORED | Believers |
-| 0074 | oHveewvaUUynJdBYHptrx1Ag85m5t | RESTORED | Believers |
-| 0075 | 384aA6b50MVPUVQJ | RESTORED | Believers |
-| 0076 | QJzyTRqY1EaQ59KnmFwLRzuzXKCwMr | RESTORED | Community |
-| 0077 | A2TyHmUA3xGXn2N1 | RESTORED | Community |
-| 0078 | N1268ANDrV7tHb9V6k7MutByWrCUfF | RESTORED | Community |
-| 0079 | SKKmtBmv8T1CS8CAR | RESTORED | Whale |
-| 0080 | ARp25dUs7tednx7AA1PpPRKRcZVFp | RESTORED | Whale |
-| 0081 | N4tyZVvfcmh7hjCF | RESTORED | Whale |
-| 0082 | r816xHrpbbhfM63FemB | RESTORED | Believers |
-| 0083 | B2j4MdaWN4 | RESTORED | Believers |
-| 0084 | VE7VEAZEQDM | RESTORED | Believers |
-| 0085 | C1RrPkVhVRbkLyfTbo | RESTORED | Community |
-| 0086 | Tbd7bXQRYPgx1xeApdvE | RESTORED | Community |
-| 0087 | 3CMWJWPTYHZVLSFnJ5 | RESTORED | Community |
-| 0088 | nJ5uJSRuEE9nn6ZJjb58bvDSKJpf2 | RESTORED | Whale |
-| 0089 | 5qmPKSPZCLR7EU5b | RESTORED | Whale |
-| 0090 | J5bxiK1Tjvqz5WzZcBHXaVqGeYykqgh | RESTORED | Whale |
-| 0091 | Ee4dnqVzqmzWK9AD | RESTORED | Believers |
-| 0092 | pWdvFFofzbuWiQzaFixaswotjzFcc | RESTORED | Believers |
-| 0093 | 7mcd7JfzKChvFfoir | RESTORED | Believers |
-| 0094 | LrZnzbuhqfgRvz42ahHsKyh342x65 | RESTORED | Community |
-| 0095 | GDyzstkbWshGN4pMSE | RESTORED | Community |
-| 0096 | MS6pnnKqiHTissCY1V | RESTORED | Community |
-| 0097 | VX1JG8V0MPdD | RESTORED | Whale |
-| 0098 | 3DZWm3NdmEkooEVNG | RESTORED | Whale |
-| 0099 | NGipeUaeWbZnn2RjNJAUqEjgvw | RESTORED | Whale |
-| 0100 | 7n3QaJC4dh9fvmN1x1 | RESTORED | Believers |
-| 0101 | 1xDHuW1DRfvvCGg2XpN2smanqQre | RESTORED | Believers |
-| 0102 | 21gbBncRc7Zryr9aJV | RESTORED | Believers |
-| 0103 | BJWM3x6YYBVA | RESTORED | Community |
-| 0104 | AiXLaSN1DMqooC28Hq | RESTORED | Community |
-| 0105 | 6cf9n69WJLExLDBcmzC | RESTORED | Community |
-| 0106 | izCJQjjGUygi | RESTORED | Whale |
-| 0107 | giyAipo@HmJyMvPKck | RESTORED | Whale |
-| 0108 | b94KqW9x7JpfZESHAC | RESTORED | Whale |
-| 0109 | CfmvVxE7udREqtzd1HQVnZP | RESTORED | Believers |
-| 0110 | Bxb4Hz6hBMYvScgQE1 | RESTORED | Believers |
-| 0111 | QE1xVtUq2Bd1WrPYXNcLbWfbK2 | RESTORED | Believers |
-| 0112 | 714p93Ym8nkQBtndgR | RESTORED | Community |
-| 0113 | dgRUvaDUJzj8PmYcAZdrG | RESTORED | Community |
-| 0114 | GSEL2A25T | RESTORED | Community |
-| 0115 | ChuyoWfKh2uPUgfb | RESTORED | Whale |
-| 0116 | fbfkagBdKSwJ1ATMv6DRAJ4Lz9j1 | RESTORED | Whale |
-| 0117 | fBv | RESTORED | Whale |
-| 0118 | 744T4DVLdCtF7CTV | RESTORED | Believers |
-| 0119 | TwqEMe2YoY56PsAcSQAVTMahared | RESTORED | Believers |
-| 0120 | edgo | RESTORED | Believers |
-| 0121 | CRZM92sgtgHusC9s | RESTORED | Community |
-| 0122 | C9sJMZpjDQtfvMxTzSxVFFfbe6aoQ | RESTORED | Community |
-| 0123 | 8HnHxEMJbXd2p7Rq | RESTORED | Community |
-| 0124 | FRqcoMGir5kHrbu8pqy9k9HBBdCa | RESTORED | Whale |
-| 0125 | ZODA | RESTORED | Whale |
-| 0126 | HLKTEM4DyF7EVHZH | RESTORED | Whale |
-| 0127 | ZhiQjhuMoMooGRtyözLodr | RESTORED | Believers |
-| 0128 | Irbjuipqjo | RESTORED | Believers |
-| 0129 | 7WbBg32BN1XVd6oK | RESTORED | Believers |
-| 0130 | boKs7ZntflucAzq7VNJVbypugQPS | RESTORED | Community |
-| 0131 | 5dBaDRKhfhNF5XL | RESTORED | Community |
-| 0132 | 5XLSwsQykuzakósLx7bSzEL3jPKWzy | RESTORED | Community |
-| 0133 | WzyXw | RESTORED | Whale |
-| 0134 | HNptJzPPnfqDg | RESTORED | Whale |
-| 0135 | DgFvX1sAnaEDzkHVCfnEbfitcBR8iqro3 | RESTORED | Whale |
-| 0136 | 03 | RESTORED | Believers |
-| 0137 | obUeJYSKH3eDF | RESTORED | Believers |
-| 0138 | DFY+9A6CYd6YK/URVXgJMa2xycCBxr | RESTORED | Believers |
-| 0139 | TB5 | RESTORED | Community |
-| 0140 | HorhMaW6CXnx | RESTORED | Community |
-| 0141 | XnXsz67MLVYMtqfavjhQoYryelovecJUBLQ | RESTORED | Community |
-| 0142 | AEkkófgXopxzcTOHQA7PSQRQGPz454JKha18J6YKGdfU | RESTORED | Whale |
-| 0143 | 32HkqWJBtjbsyJpTKZZUmrrwcfHJUerLqZorkuHJhfCE | RESTORED | Whale |
-| 0144 | GofVckLDMb1Hznu5TZhqrPxrvQtD17gEWFZnKCuY8Kxg | RESTORED | Whale |
-| 0145 | AyxAsr7BonZMHDcNajKFAK1yAyM3yqd77QSg4r2UTDIV | RESTORED | Believers |
-| 0146 | FqPgV2tM4BKZgneNU9QqZow1AWoqAkSeyUzgDQiujJWN | RESTORED | Believers |
-| 0147 | 213PvnvbWk3ZyvY6156Y5p1RzP1AW6GqxAMBM4Q15Hy | RESTORED | Believers |
-| 0148 | Hspff4Mqz9YvEh8fCgJ712375T1u3VVS9gDV9o1speT4 | RESTORED | Community |
-| 0149 | CTkccU97LX1NE2XCvxVieF3m14cixmfdwJPV2TZJJ6aX | RESTORED | Community |
-| 0150 | 9RRrFHDQbpBq2p5tvnbaurSJNCKVm218nMXF88JALVID | RESTORED | Community |
+### 🔑 PROGRAM CONFIGURATION
+The metadata restoration and account initialization are governed by the following Solana Program ID:
+`334XQpaLxYbB93VLLXYXkh58RUA4B8wpijPPQzZakTo3`
 
 ---
 
-## 🛠 TECHNICAL DEEP-DIVE
-The restoration utilizes the Metaplex Foundation SDK to link each unique Mint ID to its corresponding JSON schema hosted within this repository. 
+### 📑 OFFICIAL MINT REGISTRY
 
-### SCARCITY PROTOCOL
-- **Whale Tier Assets:** 1/1 unique descriptive JSONs.
-- **Believer Tier Assets:** Early-access metadata mapping.
-- **Community Tier Assets:** Distributed participation testing assets.
-
-### RECOVERY SCRIPT ARCHITECTURE
-The recovery is executed via a `client.ts` script that iterates through the provided mint addresses, derives the Metadata PDA, and invokes the `createMetadataAccountV3` instruction.
+| INDEX | MINT ADDRESS (CLICK TO VIEW ON DEVNET) | STATUS |
+|---|---|---|
+| 0001 | [Ha4ENFdWVNNFFC2KPLDxFdz7bcTjB1Y5MQb55s24Xjg1](https://explorer.solana.com/address/Ha4ENFdWVNNFFC2KPLDxFdz7bcTjB1Y5MQb55s24Xjg1?cluster=devnet) | VERIFIED |
+| 0002 | [AK1FKg2LnqWFF0nkcgkWNEnG5CaaPCT7ULJpDwpwBdXB](https://explorer.solana.com/address/AK1FKg2LnqWFF0nkcgkWNEnG5CaaPCT7ULJpDwpwBdXB?cluster=devnet) | VERIFIED |
+| 0003 | [3Utr65mj057iJECVDR4UhHfHfm145BR1NFM8ce02163](https://explorer.solana.com/address/3Utr65mj057iJECVDR4UhHfHfm145BR1NFM8ce02163?cluster=devnet) | VERIFIED |
+| 0004 | [4Atdt1hpllxsQM5ev90ot82oEj1ABK32pdrBxBto6bLDd](https://explorer.solana.com/address/4Atdt1hpllxsQM5ev90ot82oEj1ABK32pdrBxBto6bLDd?cluster=devnet) | VERIFIED |
+| 0005 | [7AgZNBA16FLQTX59g4529eJCQJvh75vRiHNYLmvov98](https://explorer.solana.com/address/7AgZNBA16FLQTX59g4529eJCQJvh75vRiHNYLmvov98?cluster=devnet) | VERIFIED |
+| 0006 | [3v7frP6orA3bXJ7zwRZNu1SpvLDxnB6t462nANHQCXQE](https://explorer.solana.com/address/3v7frP6orA3bXJ7zwRZNu1SpvLDxnB6t462nANHQCXQE?cluster=devnet) | VERIFIED |
+| 0007 | [H458RTNnD8coA4QYectoFhyfR9SAw3YFKNUzfwbbzYS](https://explorer.solana.com/address/H458RTNnD8coA4QYectoFhyfR9SAw3YFKNUzfwbbzYS?cluster=devnet) | VERIFIED |
+| 0008 | [FVHToHKzLQ4gPCkXzL6zV7VLzd6RtwQq4qHfocmFnZNN](https://explorer.solana.com/address/FVHToHKzLQ4gPCkXzL6zV7VLzd6RtwQq4qHfocmFnZNN?cluster=devnet) | VERIFIED |
+| 0009 | [nfLT6GVZ3xbKCbRZidCiDcMVc1wdkrCAktvjGjNfhd](https://explorer.solana.com/address/nfLT6GVZ3xbKCbRZidCiDcMVc1wdkrCAktvjGjNfhd?cluster=devnet) | VERIFIED |
+| 0010 | [J22Soco5M47XiscVconBhGtoozJA2Bp9PmUsbtxJtCSS](https://explorer.solana.com/address/J22Soco5M47XiscVconBhGtoozJA2Bp9PmUsbtxJtCSS?cluster=devnet) | VERIFIED |
+| 0011 | [FfJnaB2ucsaXfScWfjDYjgQ14h1b2mHLjuArTznCeqJw](https://explorer.solana.com/address/FfJnaB2ucsaXfScWfjDYjgQ14h1b2mHLjuArTznCeqJw?cluster=devnet) | VERIFIED |
+| 0012 | [F2jgXUK5HrJHF22GkQTQxKTxbU6mZ6fEridrx7LuvJMV](https://explorer.solana.com/address/F2jgXUK5HrJHF22GkQTQxKTxbU6mZ6fEridrx7LuvJMV?cluster=devnet) | VERIFIED |
+| 0013 | [63qw6xya9vzsH7Tmg45mZ4N9qgFbJH1PLQvzrKYh7685](https://explorer.solana.com/address/63qw6xya9vzsH7Tmg45mZ4N9qgFbJH1PLQvzrKYh7685?cluster=devnet) | VERIFIED |
+| 0014 | [9Rh5MRZB5anHVPb+ZqQAmVncKQ75HbwXm5kJjBPUgkty](https://explorer.solana.com/address/9Rh5MRZB5anHVPb+ZqQAmVncKQ75HbwXm5kJjBPUgkty?cluster=devnet) | VERIFIED |
+| 0015 | [SA2RU1pofBherBa2WhzqUxE4TXY8AsAhtendhBRt56db](https://explorer.solana.com/address/SA2RU1pofBherBa2WhzqUxE4TXY8AsAhtendhBRt56db?cluster=devnet) | VERIFIED |
+| 0016 | [eynCk97Uc67K72xjo552nRt81aDUecAeM773gCKOFY6](https://explorer.solana.com/address/eynCk97Uc67K72xjo552nRt81aDUecAeM773gCKOFY6?cluster=devnet) | VERIFIED |
+| 0017 | [FeSuLBcEjSVM91DNbCZynBFnXsnxJ1FYAw3zmws3KUN](https://explorer.solana.com/address/FeSuLBcEjSVM91DNbCZynBFnXsnxJ1FYAw3zmws3KUN?cluster=devnet) | VERIFIED |
+| 0018 | [701P4EJAMWxQjzgM2FEknjsU3ekZkPRmJZeP3cg6h76jH](https://explorer.solana.com/address/701P4EJAMWxQjzgM2FEknjsU3ekZkPRmJZeP3cg6h76jH?cluster=devnet) | VERIFIED |
+| 0019 | [faKEcv3SYaf6VToRKGUZ2Rgs47M4TzCbK1W28mqRJNa](https://explorer.solana.com/address/faKEcv3SYaf6VToRKGUZ2Rgs47M4TzCbK1W28mqRJNa?cluster=devnet) | VERIFIED |
+| 0020 | [EsqywEovJbe7a6dZHN7531e7Yxa6Tk8o8PdNBdvA61BJ](https://explorer.solana.com/address/EsqywEovJbe7a6dZHN7531e7Yxa6Tk8o8PdNBdvA61BJ?cluster=devnet) | VERIFIED |
+| 0021 | [50Hv7nQRn70x346tC2kt6Nf4QcyiAKLzWGZcf5XvnsNas](https://explorer.solana.com/address/50Hv7nQRn70x346tC2kt6Nf4QcyiAKLzWGZcf5XvnsNas?cluster=devnet) | VERIFIED |
+| 0022 | [8jn8xJZCyBx8c3A2Y9fsE5epF1EJbivmM90Y216XVynp](https://explorer.solana.com/address/8jn8xJZCyBx8c3A2Y9fsE5epF1EJbivmM90Y216XVynp?cluster=devnet) | VERIFIED |
+| 0023 | [Sin7T7UHEQtAYby3uzCU1r288H8c8cu6fsgEcc3al67y](https://explorer.solana.com/address/Sin7T7UHEQtAYby3uzCU1r288H8c8cu6fsgEcc3al67y?cluster=devnet) | VERIFIED |
+| 0024 | [Du7Df9BKUPcwsnXp8jSFBr76UrEeCrgn2gFuX7drFEz](https://explorer.solana.com/address/Du7Df9BKUPcwsnXp8jSFBr76UrEeCrgn2gFuX7drFEz?cluster=devnet) | VERIFIED |
+| 0025 | [AcyASzXE46twVC612qvcgBEFWS2N2zbc8t8zuRBSNj8](https://explorer.solana.com/address/AcyASzXE46twVC612qvcgBEFWS2N2zbc8t8zuRBSNj8?cluster=devnet) | VERIFIED |
+| 0026 | [E30H6vt8WZUpuyDELW2XdUXx4r7fwgWckvQn959C2xY3](https://explorer.solana.com/address/E30H6vt8WZUpuyDELW2XdUXx4r7fwgWckvQn959C2xY3?cluster=devnet) | VERIFIED |
+| 0027 | [789QjVSeuy583z885wpQYQnhSWMPRPNW32LQMAp5Dvi](https://explorer.solana.com/address/789QjVSeuy583z885wpQYQnhSWMPRPNW32LQMAp5Dvi?cluster=devnet) | VERIFIED |
+| 0028 | [2Pj5JkrB4n8gTxXznyBGGsJBcxdMUAJ80qr4vSkQ5Ync](https://explorer.solana.com/address/2Pj5JkrB4n8gTxXznyBGGsJBcxdMUAJ80qr4vSkQ5Ync?cluster=devnet) | VERIFIED |
+| 0029 | [CK1jt4aDE7nEZmUFETsh9eYZzug4nsAEdVU4ZKWTC5WB](https://explorer.solana.com/address/CK1jt4aDE7nEZmUFETsh9eYZzug4nsAEdVU4ZKWTC5WB?cluster=devnet) | VERIFIED |
+| 0030 | [2KFQxf6c6hc366m6vrNUaC4EJPoZfd9RTOYUjngare92](https://explorer.solana.com/address/2KFQxf6c6hc366m6vrNUaC4EJPoZfd9RTOYUjngare92?cluster=devnet) | VERIFIED |
+| 0031 | [4cq7BhREMjTJLXUqCoRbqYyRBTanHUhywkd37mYmKGQu](https://explorer.solana.com/address/4cq7BhREMjTJLXUqCoRbqYyRBTanHUhywkd37mYmKGQu?cluster=devnet) | VERIFIED |
+| 0032 | [7PMr5b3YG6c8uTLjarkByTz4sk2033GF1LDasTqo887v](https://explorer.solana.com/address/7PMr5b3YG6c8uTLjarkByTz4sk2033GF1LDasTqo887v?cluster=devnet) | VERIFIED |
+| 0033 | [DSTHUBUskGQFtu2ebRyY1YKBS59yRFBHqJ5rgVR4FAEG](https://explorer.solana.com/address/DSTHUBUskGQFtu2ebRyY1YKBS59yRFBHqJ5rgVR4FAEG?cluster=devnet) | VERIFIED |
+| 0034 | [34my8QnjBwXcmrwT8Mj9u88Tvt79KwMbsgd8yzgFDuho](https://explorer.solana.com/address/34my8QnjBwXcmrwT8Mj9u88Tvt79KwMbsgd8yzgFDuho?cluster=devnet) | VERIFIED |
+| 0035 | [8x9ygbyjK71PMUHgEnkt5Rqg6LFgjtuCNSy6NQATNqBy](https://explorer.solana.com/address/8x9ygbyjK71PMUHgEnkt5Rqg6LFgjtuCNSy6NQATNqBy?cluster=devnet) | VERIFIED |
+| 0036 | [3jkQB5uByuvh90L5XYYr3pybjqnmDwMxPUQFS60023d](https://explorer.solana.com/address/3jkQB5uByuvh90L5XYYr3pybjqnmDwMxPUQFS60023d?cluster=devnet) | VERIFIED |
+| 0037 | [ACCRTVGZmNW2jRq88pjC8hN7YLDUd99vntba4LeccB6s](https://explorer.solana.com/address/ACCRTVGZmNW2jRq88pjC8hN7YLDUd99vntba4LeccB6s?cluster=devnet) | VERIFIED |
+| 0038 | [475Ud5PhcvfncoaRYh1NFxFF3ESxC6w931n3onDAHDZ](https://explorer.solana.com/address/475Ud5PhcvfncoaRYh1NFxFF3ESxC6w931n3onDAHDZ?cluster=devnet) | VERIFIED |
+| 0039 | [8VbWEt3b8PKXY1uLpRNQE15T35fuuTWinkjAsBCePNFV](https://explorer.solana.com/address/8VbWEt3b8PKXY1uLpRNQE15T35fuuTWinkjAsBCePNFV?cluster=devnet) | VERIFIED |
+| 0040 | [5tknUWJPJ5V5RUmallveexvalayn3dBYHptrx1Ag85nSt](https://explorer.solana.com/address/5tknUWJPJ5V5RUmallveexvalayn3dBYHptrx1Ag85nSt?cluster=devnet) | VERIFIED |
+| 0041 | [384aA6b5QMVPuVQJzyTRQY1EaQS9KFwLRzuzXXCuMr](https://explorer.solana.com/address/384aA6b5QMVPuVQJzyTRQY1EaQS9KFwLRzuzXXCuMr?cluster=devnet) | VERIFIED |
+| 0042 | [A2TyHmUA3x6Xn2N1268ANbrV7tHb9V6k7MutByWCUFF](https://explorer.solana.com/address/A2TyHmUA3x6Xn2N1268ANbrV7tHb9V6k7MutByWCUFF?cluster=devnet) | VERIFIED |
+| 0043 | [3KKat8nv8TiCSBCARp2SdUs7tednx7AA1PpPRKRcZVFp](https://explorer.solana.com/address/3KKat8nv8TiCSBCARp2SdUs7tednx7AA1PpPRKRcZVFp?cluster=devnet) | VERIFIED |
+| 0044 | [Bi6xHrphbhfR63FemB2mj4MdallN4tyZVvforh7hjCF](https://explorer.solana.com/address/Bi6xHrphbhfR63FemB2mj4MdallN4tyZVvforh7hjCF?cluster=devnet) | VERIFIED |
+| 0045 | [C1RPkVhVMbkLyfTbd7bXQRYPgx1xeApdvE7VEAZEQbM](https://explorer.solana.com/address/C1RPkVhVMbkLyfTbd7bXQRYPgx1xeApdvE7VEAZEQbM?cluster=devnet) | VERIFIED |
+| 0046 | [3CMJWPTyHZVLSFnJ5uJ5RuEE9nn6ZJjb58bvDSKJpf2](https://explorer.solana.com/address/3CMJWPTyHZVLSFnJ5uJ5RuEE9nn6ZJjb58bvDSKJpf2?cluster=devnet) | VERIFIED |
+| 0047 | [5qnPKSPZCLR7EU5bxiK1Tjvqz5@zZc8HXaVq6eYykqgh](https://explorer.solana.com/address/5qnPKSPZCLR7EU5bxiK1Tjvqz5@zZc8HXaVq6eYykqgh?cluster=devnet) | VERIFIED |
+| 0048 | [Ec4dngVzqazilk9ApWdvFFofzbull1QzaF1xaswotjzFoc](https://explorer.solana.com/address/Ec4dngVzqazilk9ApWdvFFofzbull1QzaF1xaswotjzFoc?cluster=devnet) | VERIFIED |
+| 0049 | [7ncd7JfzKChvFFoirZnzbuhqfgRvz42ahHsKyh342x65](https://explorer.solana.com/address/7ncd7JfzKChvFFoirZnzbuhqfgRvz42ahHsKyh342x65?cluster=devnet) | VERIFIED |
+| 0050 | [60yzstkblishGN4pMSGpanKqiHT1ssCYiVX1J68VoMPdD](https://explorer.solana.com/address/60yzstkblishGN4pMSGpanKqiHT1ssCYiVX1J68VoMPdD?cluster=devnet) | VERIFIED |
+| 0051 | [302m3NdmEk6oEVNGipeUacWbZnn2RjNJAUqEjgvwXVk](https://explorer.solana.com/address/302m3NdmEk6oEVNGipeUacWbZnn2RjNJAUqEjgvwXVk?cluster=devnet) | VERIFIED |
+| 0052 | [7n300JC4ch9fvnN1xDHuW1DRfvvCGg2XpN2smanqQron](https://explorer.solana.com/address/7n300JC4ch9fvnN1xDHuW1DRfvvCGg2XpN2smanqQron?cluster=devnet) | VERIFIED |
+| 0053 | [21gbBncRc7Zryr9aJWM3x6YYBvAiXLOSN1DMqooC2BHQ](https://explorer.solana.com/address/21gbBncRc7Zryr9aJWM3x6YYBvAiXLOSN1DMqooC2BHQ?cluster=devnet) | VERIFIED |
+| 0054 | [6cf9n69WJLEXLOBcmzCJQjj6UygiyAipolHnUyvPKck](https://explorer.solana.com/address/6cf9n69WJLEXLOBcmzCJQjj6UygiyAipolHnUyvPKck?cluster=devnet) | VERIFIED |
+| 0055 | [694KqW9x7JpfZESHaCfnvVxE7udREqtzd1HQVnZPANJ](https://explorer.solana.com/address/694KqW9x7JpfZESHaCfnvVxE7udREqtzd1HQVnZPANJ?cluster=devnet) | VERIFIED |
+| 0056 | [3xb4Hz6hBMYvScgQElxVtUq2Bdi@rPYXNcLbfbK2GQQ](https://explorer.solana.com/address/3xb4Hz6hBMYvScgQElxVtUq2Bdi@rPYXNcLbfbK2GQQ?cluster=devnet) | VERIFIED |
+| 0057 | [714p93YaankQBtndgRUvaDUJzj8PnYcAZdrGSEL2A25T](https://explorer.solana.com/address/714p93YaankQBtndgRUvaDUJzj8PnYcAZdrGSEL2A25T?cluster=devnet) | VERIFIED |
+| 0058 | [Chuy6WfKh2uPUgfbfkagBdKSwJ1ATMv6DRA34L29jBv](https://explorer.solana.com/address/Chuy6WfKh2uPUgfbfkagBdKSwJ1ATMv6DRA34L29jBv?cluster=devnet) | VERIFIED |
+| 0059 | [744T4DVLdCtF7CTwqEMe2YoY56PsAcsQAVTMaharedgo](https://explorer.solana.com/address/744T4DVLdCtF7CTwqEMe2YoY56PsAcsQAVTMaharedgo?cluster=devnet) | VERIFIED |
+| 0060 | [CRZM92sgtgHusC9sJMZpjDQtfvRxTzSxVFFFbebaoQcj](https://explorer.solana.com/address/CRZM92sgtgHusC9sJMZpjDQtfvRxTzSxVFFFbebaoQcj?cluster=devnet) | VERIFIED |
+| 0061 | [8MaHxEMJbXd2p7Rqc6MGir5kHrbu8pqy9k9MBBdCzgoA](https://explorer.solana.com/address/8MaHxEMJbXd2p7Rqc6MGir5kHrbu8pqy9k9MBBdCzgoA?cluster=devnet) | VERIFIED |
+| 0062 | [5dBaDRKhfhNF5XLSwsQykuzakósLx7b5zEL3jPKWzyX](https://explorer.solana.com/address/5dBaDRKhfhNF5XLSwsQykuzakósLx7b5zEL3jPKWzyX?cluster=devnet) | VERIFIED |
+| 0063 | [HLKTE4DyF7EVhZhi0jhuM6Mo66Rty6zLodrajuipqj6](https://explorer.solana.com/address/HLKTE4DyF7EVhZhi0jhuM6Mo66Rty6zLodrajuipqj6?cluster=devnet) | VERIFIED |
+| 0064 | [7WbBg328NiXVd6oKs7ZntfWucAzq7VNJVbypugQPs3qV](https://explorer.solana.com/address/7WbBg328NiXVd6oKs7ZntfWucAzq7VNJVbypugQPs3qV?cluster=devnet) | VERIFIED |
+| 0065 | [HNpt3zPPnfqDgFvX1sAnaEDzkHVCfnEbfitcBRBiqro3](https://explorer.solana.com/address/HNpt3zPPnfqDgFvX1sAnaEDzkHVCfnEbfitcBRBiqro3?cluster=devnet) | VERIFIED |
+| 0066 | [6bUeJYsKH3eDFYF9A6CYd6YKpuRVXgJMa2xycCBxr785](https://explorer.solana.com/address/6bUeJYsKH3eDFYF9A6CYd6YKpuRVXgJMa2xycCBxr785?cluster=devnet) | VERIFIED |
+| 0067 | [HorhMaW6CXnXsz67MLVYMtqfavjhQoYryclovecJUBLO](https://explorer.solana.com/address/HorhMaW6CXnXsz67MLVYMtqfavjhQoYryclovecJUBLO?cluster=devnet) | VERIFIED |
+| 0068 | [AEkk6fgXopxzcTDHQA7PSQRQGPz454JKho1836YKGDFU](https://explorer.solana.com/address/AEkk6fgXopxzcTDHQA7PSQRQGPz454JKho1836YKGDFU?cluster=devnet) | VERIFIED |
+| 0069 | [32HkqW3BtjbsyJpTKZZUerrwcfH3UerLqZ6rKuHJhfCE](https://explorer.solana.com/address/32HkqW3BtjbsyJpTKZZUerrwcfH3UerLqZ6rKuHJhfCE?cluster=devnet) | VERIFIED |
+| 0070 | [GofVckLDMb1Hznu5TZhqrPxrvQtO17gEWFZnKCuY8Kxg](https://explorer.solana.com/address/GofVckLDMb1Hznu5TZhqrPxrvQtO17gEWFZnKCuY8Kxg?cluster=devnet) | VERIFIED |
+| 0071 | [AyxAsr7BonZMHDcNajKFAKiyAyM3yqd77QSg4r2UTD1V](https://explorer.solana.com/address/AyxAsr7BonZMHDcNajKFAKiyAyM3yqd77QSg4r2UTD1V?cluster=devnet) | VERIFIED |
+| 0072 | [FqPqV2tM4BKZgnellU9QqZow1AlMoqAkSoyUzgDQiujJWN](https://explorer.solana.com/address/FqPqV2tM4BKZgnellU9QqZow1AlMoqAkSoyUzgDQiujJWN?cluster=devnet) | VERIFIED |
+| 0073 | [213PvnvbWk3ZyvY6156Y5p1RzPiAM6GqxAMBrM4Q15Hy](https://explorer.solana.com/address/213PvnvbWk3ZyvY6156Y5p1RzPiAM6GqxAMBrM4Q15Hy?cluster=devnet) | VERIFIED |
+| 0074 | [Hopff4Mqz9YvEhB+CgJ71237571u3VVS9gBV901speT4](https://explorer.solana.com/address/Hopff4Mqz9YvEhB+CgJ71237571u3VVS9gBV901speT4?cluster=devnet) | VERIFIED |
+| 0075 | [CTkccU97LX1NE2XCvxVieF3m14cixmfdwJPV2TZJJ6aX](https://explorer.solana.com/address/CTkccU97LX1NE2XCvxVieF3m14cixmfdwJPV2TZJJ6aX?cluster=devnet) | VERIFIED |
+| 0076 | [FHDQbpBq2p5tvnbaurSJNCKVn218nMXF88JALVJD](https://explorer.solana.com/address/FHDQbpBq2p5tvnbaurSJNCKVn218nMXF88JALVJD?cluster=devnet) | VERIFIED |
+| 0077 | [2pfyn9NvmRXx6pcL4ah9VcthduuNysBAwAqopA5bHref](https://explorer.solana.com/address/2pfyn9NvmRXx6pcL4ah9VcthduuNysBAwAqopA5bHref?cluster=devnet) | VERIFIED |
+| 0078 | [5848YGhiRXGZZ26PvNggd16vh131V1gZKcxBBPv7cLJK](https://explorer.solana.com/address/5848YGhiRXGZZ26PvNggd16vh131V1gZKcxBBPv7cLJK?cluster=devnet) | VERIFIED |
+| 0079 | [209ardvQEGYAG@wyZRU1hp7FgcebXhB6Mq3q9b3zbJF](https://explorer.solana.com/address/209ardvQEGYAG@wyZRU1hp7FgcebXhB6Mq3q9b3zbJF?cluster=devnet) | VERIFIED |
+| 0080 | [CSaJAEqZjjo6E2741ySSHhRfNzEoUuJEM78J52843RnK](https://explorer.solana.com/address/CSaJAEqZjjo6E2741ySSHhRfNzEoUuJEM78J52843RnK?cluster=devnet) | VERIFIED |
+| 0081 | [9qJUyw9HbVjxnrhDYwEZI.1HnC6EJ9LTRZzYDEAv6f3vp](https://explorer.solana.com/address/9qJUyw9HbVjxnrhDYwEZI.1HnC6EJ9LTRZzYDEAv6f3vp?cluster=devnet) | VERIFIED |
+| 0082 | [FRyPrintU8o6yxbJkcZpo5HWwAclcQSpwl.GongHP80dth](https://explorer.solana.com/address/FRyPrintU8o6yxbJkcZpo5HWwAclcQSpwl.GongHP80dth?cluster=devnet) | VERIFIED |
+| 0083 | [BuspbgXzQjEQbnQ2XEhAn31JvUtrRBhpzdGnkeE38pD6](https://explorer.solana.com/address/BuspbgXzQjEQbnQ2XEhAn31JvUtrRBhpzdGnkeE38pD6?cluster=devnet) | VERIFIED |
+| 0084 | [BM88QBpxcN2wxcxYWHP2RLFHnk69+FQYP.JVUMViq5q](https://explorer.solana.com/address/BM88QBpxcN2wxcxYWHP2RLFHnk69+FQYP.JVUMViq5q?cluster=devnet) | VERIFIED |
+| 0085 | [TGC85gX176FeJPkQNJK3uLZ2ryxyejxzBv7nC5UFtUz](https://explorer.solana.com/address/TGC85gX176FeJPkQNJK3uLZ2ryxyejxzBv7nC5UFtUz?cluster=devnet) | VERIFIED |
+| 0086 | [9kpaTc590T8ABZHCR-V468zYgTmphS0h5wy6dwwB2eMJ](https://explorer.solana.com/address/9kpaTc590T8ABZHCR-V468zYgTmphS0h5wy6dwwB2eMJ?cluster=devnet) | VERIFIED |
 
 ---
 
-## 🤝 COMMUNITY & SUPPORT
-We are committed to a "Build in Public" philosophy. Your patience during this massive 6,000-unit devnet stress test is appreciated. 
+### 🛡️ VERIFICATION ARCHITECTURE
+The listed assets have been initialized using the **createMetadataAccountV3** instruction via the Metaplex Foundation SDK. This ensures that the metadata accounts are linked to the specific program logic on the Solana Ledger.
 
-**Official Documentation - Geveex Echo Dev Team 2026**
+**Current Progress:**
+- Phase 1: Manual Initialization (86 Units) - **COMPLETE**
+- Phase 2: Batch Processing (5,914 Units) - **IN PROGRESS**
+
+---
+*Last Updated: 2026 - Geveex Dev Team*

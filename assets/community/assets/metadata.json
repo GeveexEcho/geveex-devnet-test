@@ -1,0 +1,19 @@
+{
+  "name": "Geveex Devnet Community",
+  "symbol": "GEV-COMM",
+  "description": "This NFT is designed exclusively for Geveex devnet development and internal testing. It is used to validate NFT standards, collection logic, and application flows. This token carries no monetary value and is not intended for trading, investment, or commercial use.",
+  "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/7f6384f480faa2d413dffd2b36effd0a217c8260/assets/geveex-drvnet-community.png",
+  "external_url": "https://x.com/Geveex_echo",
+  "seller_fee_basis_points": 700,
+  "creators": [
+    {
+      "address": "PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G",
+      "share": 100
+    }
+  ],
+  "attributes": [
+    { "trait_type": "Environment", "value": "Devnet" },
+    { "trait_type": "Purpose", "value": "Testing" },
+    { "trait_type": "Value", "value": "No Value" }
+  ]
+}

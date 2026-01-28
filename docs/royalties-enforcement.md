@@ -33,6 +33,17 @@ stateDiagram-v2
 
 
 
+### 🔍 Transparency & Development Disclosure
+
+> **The Testing Zone:** At Geveex, we operate with radical transparency. We do not conceal our technical hurdles or development milestones. 
+>
+> **Note on Asset Integrity:** While this document lists 6,002 assets, you may encounter certain "broken" links or "null tokens." This is primarily due to ongoing metadata synchronization on the Devnet. Some assets have not yet been assigned their final metadata parameters.
+>
+> **Our Philosophy:** We believe that identifying and documenting these failures is not a weakness, but a fundamental pillar of our ultimate success. Every "null" value is a stepping stone toward a more robust and refined mainnet architecture.
+
+
+
+
 
 
 ### Proof of Work (PoW)

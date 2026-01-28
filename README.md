@@ -53,7 +53,7 @@ To prevent misinformation, please note the following operational constraints:
 ### 🔑 PROGRAM & TESTING OVERVIEW
 Our team has successfully stress-tested the minting and metadata architecture for over **6,002 NFTs**. You can verify the high-volume testing activity via our deployment authority on Solscan:
 
-* **[View Portfolio on Solscan (Devnet)](https://solscan.io/account/PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G?cluster=devnet#portfolio)**
+* **DEVNET Wallet**[View Portfolio on Solscan (Devnet)](https://solscan.io/account/PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G?cluster=devnet#portfolio)
 
 * **royalties-enforcement.md** [View Proof Of Work (PoW)](https://github.com/GeveexEcho/geveex-devnet-test/edit/main/docs/royalties-enforcement.md)
 

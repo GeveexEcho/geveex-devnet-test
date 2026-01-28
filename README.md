@@ -4,6 +4,28 @@
 
 This repository serves as the official registry for the Geveex Echo infrastructure restoration project. It contains the technical data for assets minted strictly for development and testing environments.
 
+
+
+
+
+```mermaid
+stateDiagram-v2
+    ["*"] --> Setup
+    Setup --> Deploy_Program
+    Deploy_Program --> TGE_Execution
+    TGE_Execution --> Revoke_Authority
+    Revoke_Authority --> Autonomous_State
+    Autonomous_State --> ["*"]
+    Note right of Autonomous_State: Code is Law - No Admin Access
+```
+
+
+
+
+
+
+
+
 ---
 
 ### ⚠️ OFFICIAL DISCLAIMER & SCOPE

@@ -55,6 +55,8 @@ Our team has successfully stress-tested the minting and metadata architecture fo
 
 **[View Portfolio on Solscan (Devnet)](https://solscan.io/account/PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G?cluster=devnet#portfolio)**
 
+**[View Proof Of Work (PoW)](https://github.com/GeveexEcho/geveex-devnet-test/edit/main/docs/royalties-enforcement.md)
+
 * **Program ID:** [334XQpaLxYbB93VLLXYXkh58RUA4B8wpijPPQzZakTo3](https://explorer.solana.com/address/334XQpaLxYbB93VLLXYXkh58RUA4B8wpijPPQzZakTo3?cluster=devnet)
 
 ---

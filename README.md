@@ -128,7 +128,7 @@ The following 100 mint addresses are provided as a verified sample of the succes
 | 0097 | [48nv4huW49fcAQHt53JzMfo617GKVHnXEWJoGtMWxWTX](https://explorer.solana.com/address/48nv4huW49fcAQHt53JzMfo617GKVHnXEWJoGtMWxWTX?cluster=devnet) | DEVNET |
 | 0098 | [6a5Hq27jzrLynLns9ENRc1eWEQbCCf1Li4MsUnn24Zpi](https://explorer.solana.com/address/6a5Hq27jzrLynLns9ENRc1eWEQbCCf1Li4MsUnn24Zpi?cluster=devnet) | DEVNET |
 | 0099 | [DGLup34Ew2gv4s8uxCF7dZ2ti9ohvEGanxNVU6ArGwrX](https://explorer.solana.com/address/DGLup34Ew2gv4s8uxCF7dZ2ti9ohvEGanxNVU6ArGwrX?cluster=devnet) | DEVNET |
-| 0100 | [PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G](https://explorer.solana.com/address/PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G?cluster=devnet) | DEVNET |
+| 0100 | [ASzAZRUKorfiDx2rGqfyibUGrQdDmMr4L2ebcWWCcpqz](https://explorer.solana.com/address/ASzAZRUKorfiDx2rGqfyibUGrQdDmMr4L2ebcWWCcpqz?cluster=devnet) | DEVNET |
 
 ---
 

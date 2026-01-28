@@ -1,4 +1,4 @@
-# Royalties Enforcement
+# DEVNET Proof of Work 
 
 **Important Notice:** These Devnet assets are strictly created for internal testing and development purposes. They possess no intrinsic or monetary value. It can't be buy/sell using real funds. It won't give airdrop access/eligibility.
 

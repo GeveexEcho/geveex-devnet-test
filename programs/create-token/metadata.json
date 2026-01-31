@@ -1,0 +1,48 @@
+{
+  "name": "$DGVX",
+  "symbol": "DGVX",
+  "description": "Devnet test version of $GVX – purely for testing the Autonomous Liquidity Engine on Solana Devnet. This token has NO monetary value, cannot be bought/sold/traded (no liquidity pool), and does NOT grant any airdrop eligibility, access to mainnet $GVX, or real rewards. For development and simulation only.",
+  "image": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/a8d11647bc740a43dc3956678d2de72751d9d164/assets/geveex_devnet_token.png",
+  "external_url": "https://x.com/Geveex_echo",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet (Testnet Only)"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "100,000 (Fixed)"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Testing PDA vaults, liquidity injection, burns, claims"
+    },
+    {
+      "trait_type": "Monetary Value",
+      "value": "None – Test token only"
+    },
+    {
+      "trait_type": "Trading",
+      "value": "Disabled / No liquidity"
+    },
+    {
+      "trait_type": "Authorities",
+      "value": "All revoked on deployment"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/GeveexEcho/geveex-devnet-test/a8d11647bc740a43dc3956678d2de72751d9d164/assets/geveex_devnet_token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "PWTPrTgMX2WM1gbsFSib7RrYiXPEvVR6t13n1zWht4G",
+        "share": 100
+      }
+    ]
+  }
+}

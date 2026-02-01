@@ -138,6 +138,32 @@ pub struct ReleaseVesting<'info> {
     pub token_program: Program<'info, Token>,
 }
 
+pub fn initialize_vault(_ctx: Context<InitializeVault>) -> Result<()> {
+    Ok(())
+}
+
+#[derive(Accounts)]
+pub struct InitializeVault<'info> {
+    #[account(
+        init,
+        payer = team,
+        seeds = [b"distributor"],
+        bump,
+        token::mint = mint,
+        token::authority = distributor_pda,
+    )]
+    pub distributor_vault: Account<'info, TokenAccount>,
+    /// CHECK: This is the PDA authority
+    #[account(seeds = [b"distributor"], bump)]
+    pub distributor_pda: UncheckedAccount<'info>,
+    pub mint: Account<'info, Mint>,
+    #[account(mut)]
+    pub team: Signer<'info>,
+    pub system_program: Program<'info, System>,
+    pub token_program: Program<'info, Token>,
+    pub rent: sysvar::Rent::Rent,
+}
+
 #[account]
 pub struct VestingState {
     pub team_wallet: Pubkey,
